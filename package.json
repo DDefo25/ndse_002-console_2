@@ -1,0 +1,22 @@
+{
+  "name": "ndse_002-console_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "guessNum.js",
+  "bin": {
+    "guess-num": "./guessNum.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDefo25/ndse_002-console_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDefo25/ndse_002-console_2/issues"
+  },
+  "homepage": "https://github.com/DDefo25/ndse_002-console_2#readme"
+}
